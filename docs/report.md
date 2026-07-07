@@ -1,2 +1,2 @@
 #report
-[test_plan](https://drive.google.com/file/d/1NvZEaAipA-0RcD85GCpiDqfuN5WBlTJI/view?usp=drive_link)
+[report](https://drive.google.com/file/d/1NvZEaAipA-0RcD85GCpiDqfuN5WBlTJI/view?usp=drive_link)
